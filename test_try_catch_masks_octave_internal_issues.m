@@ -1,4 +1,4 @@
-function test_suite = try_catch_masks_octave_internal_issues
+function test_suite = test_try_catch_masks_octave_internal_issues
   initTestSuite;
 end
 
